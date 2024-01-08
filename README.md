@@ -12,7 +12,7 @@ assumindo-se a taxa de aprendizagem como 0,01, faça as seguintes atividades:
 1) Execute cinco treinamentos para a rede Perceptron, iniciando o vetor de pesos {w} em cada
 treinamento com valores aleatórios entre zero e um. Se for o caso, reinicie o gerador de
 números aleatórios em cada treinamento de tal forma que os elementos do vetor de pesos
-iniciais não sejam os mesmos. O conjunto de treinamento encontra-se no [anexo](anexo).
+iniciais não sejam os mesmos. O conjunto de treinamento encontra-se no apêndice I. 
 
 2) Registre os resultados dos cinco treinamentos na tabela apresentada a seguir
 

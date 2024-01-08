@@ -136,7 +136,7 @@ int main() {
                     }
 
                     // Atualização do bias separadamente
-                    pesos[NUM_ENTRADAS] += TAXA_APRENDIZAGEM * (conjunto_treinamento[amostra][NUM_ENTRADAS] - y);
+                    pesos[0] += TAXA_APRENDIZAGEM * (conjunto_treinamento[amostra][NUM_ENTRADAS] - y);
 
                     erro = 1;
                     //amostra--;
